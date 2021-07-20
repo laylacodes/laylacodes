@@ -17,5 +17,4 @@ Email me at: **lmassey2021@gmail.com**
 <p align="left">
 <a href="https://twitter.com/laylathecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laylathecoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/layla-massey-18b2ab11a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="layla-massey-18b2ab11a" height="30" width="40" /></a>
-<a href="https://instagram.com/laylathecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laylathecoder" height="30" width="40" /></a>
-</p>
+
