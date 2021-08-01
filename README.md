@@ -1,4 +1,4 @@
-## 🌸 hi there! im layla massey
+## 🌸 hi there! im layla
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laylamassey&label=Profile%20views&color=0e75b6&style=flat" alt="laylamassey" /> </p>
 
