@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laylamassey&label=Profile%20views&color=0e75b6&style=flat" alt="laylamassey" /> </p>
 
-![readme#2](https://user-images.githubusercontent.com/87538589/125984411-9269f993-4824-43f9-8ceb-50b71ffedb4b.png)
+![readme#2 (1)](https://user-images.githubusercontent.com/87538589/127787748-3189b0e2-5660-4236-aa60-f0faa0586ff8.png)
 
 <h4 align="left"> 🌸 languages and tools i've worked with</h3>
 
