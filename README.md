@@ -4,7 +4,7 @@
 
 ## about me
 
-* i'm currently learning HTML, CSS and JavaScript
+* i'm currently learning HTML, CSS and JavaScript ontop of my school studies
 * i'm an avid reader, my favorite author being Eckhart Tolle
 * i'm obsessed with the outdoors & hike regularly
 * i'm a member of the Computer Science Student Organization at my university
