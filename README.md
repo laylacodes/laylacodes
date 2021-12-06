@@ -8,7 +8,7 @@
 * i'm an avid reader, my favorite author being Eckhart Tolle
 * i'm obsessed with the outdoors & hike regularly
 * i'm a member of the Computer Science Student Organization at my university
-* i create content on my coding/tech twitter <em>(20k followers in 4 months)</em> [@codinglayla](https://twitter.com/codinglayla)
+* i create content on my coding/tech twitter <em>(20k followers in 6 months)</em> [@codinglayla](https://twitter.com/codinglayla)
 * i write technical blogs on [my hashnode blog](https://laylacodes.hashnode.dev/)
 * i created my [portfolio website](https://codinglayla.github.io/) from scratch 
 
