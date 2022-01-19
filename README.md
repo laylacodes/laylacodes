@@ -12,7 +12,7 @@
 * i write technical blogs on [my hashnode blog](https://laylacodes.hashnode.dev/)
 * i created my [portfolio website](https://codinglayla.github.io/) from scratch 
 
-## projects
+<!--- ## projects
 
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
@@ -21,7 +21,7 @@
 |   3  |[Freecodecamp Python Projects](https://github.com/codinglayla/python-freecodecamp-challenges)| Python |
 |   4  |[HTML/CSS small projects](https://github.com/codinglayla/html-css-projects)| HTML, CSS |
 |   5  |[Java small projects](https://github.com/codinglayla/java-projects)| Java |
-
+--->
 <br>
 
 ## 🌸 languages and tools i've worked with
