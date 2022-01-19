@@ -1,6 +1,6 @@
 <h1 align="center"> 🌸 hi there! im layla </h1>
 
-<h3 align="center"> I'm a 2nd year SWE college student from the US! </h3>
+<h3 align="center"> I'm a SWE college student from the US! </h3>
 
 ## about me
 
