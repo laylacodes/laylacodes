@@ -9,8 +9,8 @@
 * i'm obsessed with the outdoors & am in the process of becoming a Pilates instructor
 * i'm a member of the Computer Science Student Organization at my university
 * i create content on my coding/tech twitter [@codinglay](https://twitter.com/pilatesdev)
-* i write technical how-to articles on [my hashnode blog](https://laylacodes.hashnode.dev/)
-* i created my [portfolio website](https://codinglayla.github.io/) from scratch 
+* i write technical how-to articles - [here's the repo](https://github.com/laylacodes/hashnode-articles)
+* i created my [portfolio website](https://laylacodes.github.io/) from scratch 
 
 <!--- ## projects
 
@@ -34,7 +34,7 @@
 <h3 align="left">my social media</h3>
 <p align="left">
 <a href="https://codepen.io/codinglayla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codinglayla" height="30" width="40" /></a>
-<a href="https://twitter.com/codinglayla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codinglayla" height="30" width="40" /></a>
+<a href="https://twitter.com/pilatesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pilatesdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/layla-codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="layla-codes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codinglayla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglayla" height="30" width="40" /></a>
 </p>
