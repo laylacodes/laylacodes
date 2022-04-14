@@ -8,7 +8,7 @@
 * i'm an avid reader, my favorite author being Eckhart Tolle
 * i'm obsessed with the outdoors + fitness! & i'm in the process of becoming a Pilates instructor
 * i'm a member of the Computer Science Student Organization at my university
-* i create content on my coding/tech twitter [@pilatsdev](https://twitter.com/pilatesdev)
+* i create content on my coding/tech twitter [@pilatesdev](https://twitter.com/pilatesdev)
 * i write technical how-to articles - [here's the repo](https://github.com/laylacodes/hashnode-articles)
 * i created my [portfolio website](https://laylacodes.github.io/) from scratch 
 
