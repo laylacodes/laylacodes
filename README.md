@@ -9,7 +9,7 @@
 * i'm obsessed with the outdoors + fitness! & i'm in the process of becoming a Pilates instructor
 * i'm a member of the Computer Science Student Organization at my university
 * i create content on my coding/tech twitter [@pilatesdev](https://twitter.com/pilatesdev)
-* i create cheatsheets - [here's the repo](https://github.com/laylacodes/cheatsheets
+* i create cheatsheets - [here's the repo](https://github.com/laylacodes/cheatsheets)
 * i write technical how-to articles - [here's my blog](https://laylacodes.hashnode.dev/)
 * i created my [portfolio website](https://laylacodes.github.io/) from scratch 
 
