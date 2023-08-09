@@ -1,17 +1,17 @@
 <h1 align="center"> 🌸 hi there! im layla </h1>
 
-<h3 align="center"> I'm a SWE college student from the US! </h3>
+<h3 align="center"> I'm a Software Engineer intern at Oracle! </h3>
 
-## about me
+## fun facts about me
 
-* i'm currently learning HTML, CSS and JavaScript ontop of my school studies
-* i'm an avid reader, my favorite author being Eckhart Tolle
-* i'm obsessed with the outdoors + fitness! & i'm in the process of becoming a Pilates instructor
-* i'm a member of the Computer Science Student Organization at my university
-* i create content on my coding/tech twitter [@pilatesdev](https://twitter.com/pilatesdev)
-* i create cheatsheets - [here's the repo](https://github.com/laylacodes/cheatsheets)
-* i write technical how-to articles - [here's my blog](https://laylacodes.hashnode.dev/)
-* i created my [portfolio website](https://laylacodes.github.io/) from scratch 
+* i interned at Oracle in Summer 2022 and Summer 2023
+* i mainly write with Preact, Typescript, Javascript, and SQL at Oracle
+* i just completed my Computer Programming Associates degree in Summer 2023!! 
+* i'm a member of the Oracle Womens Leadership community <33
+* i create content on twitter [@pilatesdev](https://twitter.com/pilatesdev)
+* i create cheatsheets - [here](https://github.com/laylacodes/cheatsheets)
+* i blog occasionally - [blog](https://laylacodes.hashnode.dev/)
+* my makeshift [link page](https://laylacodes.github.io/)  
 
 <!--- ## projects
 
