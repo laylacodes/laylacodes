@@ -1,6 +1,6 @@
 <h1 align="center"> 😊🤚🏽 hi there! im layla </h1>
 
-<h3 align="center"> I'm a Software Engineer intern at Oracle! </h3>
+<h3 align="center"> I'm a Software Engineer at Oracle! </h3>
 
 ## fun facts about me
 
