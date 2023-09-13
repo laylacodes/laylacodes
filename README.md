@@ -11,7 +11,7 @@
 * i create content on twitter [@pilatesdev](https://twitter.com/pilatesdev)
 * i create cheatsheets - [here](https://github.com/laylacodes/cheatsheets)
 * i blog occasionally - [blog](https://laylacodes.hashnode.dev/)
-* my makeshift [link page](https://laylacodes.github.io/)  
+* my website: (lay.codes)[https://www.lay.codes]
 
 <!--- ## projects
 
