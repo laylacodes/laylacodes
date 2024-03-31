@@ -1,11 +1,11 @@
 <h1 align="center"> 😊🤚🏽 hi there! im layla </h1>
 
-<h3 align="center"> I'm a Software Engineer at Oracle! </h3>
+<h3 align="center"> I'm a full-stack Software Developer at Oracle! </h3>
 
 ## fun facts about me
 
-* i interned at Oracle in Summer 2022 and Summer 2023
-* i mainly write with Preact, Typescript, Javascript, and SQL at Oracle
+* i interned at Oracle in Summer 2022 and Summer 2023 as a Software Engineer intern
+* i'm fullstack at Oracle, so i help create frontend UIs, as well as backend. i'm currently on the LiveSQL project  
 * i just completed my Computer Programming Associates degree in Summer 2023!! 
 * i'm a member of the Oracle Womens Leadership community <33
 * i create content on twitter [@pilatesdev](https://twitter.com/pilatesdev)
